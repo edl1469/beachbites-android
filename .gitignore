@@ -9,3 +9,4 @@
 .externalNativeBuil
 res/*
 app/beachbites_prod/*
+app/google-services.json
