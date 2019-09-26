@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "132043622501",
+    "firebase_url": "https://beachbites-f8ba1.firebaseio.com",
+    "project_id": "beachbites-f8ba1",
+    "storage_bucket": "beachbites-f8ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132043622501:android:c8bcdd2582e3bca4",
+        "android_client_info": {
+          "package_name": "com.csulb.beachbites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132043622501-i8nc19funq4u5frj50ujj8alss5fc7bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csulb.beachbites",
+            "certificate_hash": "1452d8498abcc63a969c8c48fcf3486224a9a772"
+          }
+        },
+        {
+          "client_id": "132043622501-i70mhj66d3kkh0h9ab9h7l9iskou2rdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjYqBWPbOOm6Brx3nPud7i0rPf73wqoc"
+        },
+        {
+          "current_key": "AIzaSyBRBjZQeAb3Q0NFBerDdWWYLjnSGB7Jmno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132043622501-7d73fmsovkkv5tip5g1bhpkai3imdcpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.csulb.beachbites"
+              }
+            },
+            {
+              "client_id": "132043622501-i70mhj66d3kkh0h9ab9h7l9iskou2rdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132043622501:android:5b62dca5690a2447",
+        "android_client_info": {
+          "package_name": "com.csulb.edu.beachbites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132043622501-06fgqab27c7v3q67jbc50h8su5e1kldo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csulb.edu.beachbites",
+            "certificate_hash": "1452d8498abcc63a969c8c48fcf3486224a9a772"
+          }
+        },
+        {
+          "client_id": "132043622501-i70mhj66d3kkh0h9ab9h7l9iskou2rdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjYqBWPbOOm6Brx3nPud7i0rPf73wqoc"
+        },
+        {
+          "current_key": "AIzaSyBRBjZQeAb3Q0NFBerDdWWYLjnSGB7Jmno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132043622501-7d73fmsovkkv5tip5g1bhpkai3imdcpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.csulb.beachbites"
+              }
+            },
+            {
+              "client_id": "132043622501-i70mhj66d3kkh0h9ab9h7l9iskou2rdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
